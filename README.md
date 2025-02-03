@@ -12,10 +12,15 @@ Relevant Coursework: Linear Algebra, Frequentist statistics, Data Analytics Comp
 CAPGEMINI                                                                                           JAN 2022 – OCT 2022
 Role: Analyst 
 	Reduced candidate profile shortlisting time by 10% through implementing data-driven decision-making techniques.
+
 	Analyzed and maintained employee database (Naukri, LinkedIn) to enhance screening efficiency.
+
 	Expertise in using tools like MS Excel to Analyze, Maintain Data, and Reporting.
+
 	Collaborated with hiring managers to match candidate profiles to specific job roles, applying ethical hiring practices. 
+
 	Led data-driven meetings with clients to provide insights on candidate pools and project status.
+
 	Actively contributed to the team with strong Storytelling and Presentation skills and effectively communicated with both
 technical and non-technical stakeholders.
 # Academic Projects
