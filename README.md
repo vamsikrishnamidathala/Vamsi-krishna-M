@@ -27,11 +27,16 @@ Role: Analyst
 technical and non-technical stakeholders.
 # Academic Projects
 Crime Data Analytics System: A distributed system 
+
 Docker, Hadoop HDFS, PySpark, MS SQL, Tableau
+
 Designed a distributed data system to process raw, unstructured data and transform it into actionable insights displayed on an interactive dashboard. Utilized SFPD data via API to create structured datasets and visualizations.
 Delivered a system that enables stakeholders to analyze crime trends in San Francisco, supporting predictive modeling for crime prevention. Insights from the executive dashboard facilitated data-driven decision-making to enhance public safety for residents and tourists. The project demonstrated the potential of structured data in improving the precision of predictive models for proactive safety measures.
+
 Bank Customer Churn Prediction Analysis 
+
 Python, Scikit-learn, Jupyter, CRISP DM
+
 Developed a churn prediction model to help banks forecast customer attrition and take proactive measures to reduce churn rates.
 Built a Random Forest classifier achieving 86% accuracy and an F1 score of 86%. Key churn predictors included age, balance, salary, and credit score, with age being the most significant. Enabled the identification of at-risk customers and guided retention strategies to reduce churn ratios effectively.	
 # Skills
