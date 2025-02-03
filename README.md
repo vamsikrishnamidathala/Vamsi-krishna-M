@@ -41,13 +41,21 @@ Developed a churn prediction model to help banks forecast customer attrition and
 Built a Random Forest classifier achieving 86% accuracy and an F1 score of 86%. Key churn predictors included age, balance, salary, and credit score, with age being the most significant. Enabled the identification of at-risk customers and guided retention strategies to reduce churn ratios effectively.	
 # Skills
 Programming Languages – Python, R, SQL, HTML, Unix Shell, Linux
+
 Data Analysis & Visualization – Tableau, MS Excel, MS PowerPoint
+
 Programming and Development Tools – Jupyter Notebook, Collab Notebook, VS Code, R Studio, Ubuntu
+
 Big Data Tools – Docker, Hadoop, Apache Spark, power BI
+
 Database Tools – MS SQL Server, FlySpeed SQL Query, MySQL
 # Certifications
 “Data Analytics: 1 Foundation, LinkedIn learning (August 2024)”
+
 “Introduction to Career Skills in Data Analytics, LinkedIn Learning (July 2024)”
+
 “Foundations: Data, Data, Everywhere, Coursera (March 2023)”
+
 “Data Analytics Consulting virtual internship, Forage (March 2023)”
+
 “Data Visualization: Empowering with Effective Insights, Forage (March 2023)”
