@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vamsi Krishna Midathala 
-# v.krishna.midathala@gmail.com
+**v.krishna.midathala@gmail.com**
 🎓 Data Science Graduate | 📊 Passionate about Data  
 
 
