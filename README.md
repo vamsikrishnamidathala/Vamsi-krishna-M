@@ -13,6 +13,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-Database-red?logo=microsoftsqlserver&logoColor=white)
+
 
 
 
