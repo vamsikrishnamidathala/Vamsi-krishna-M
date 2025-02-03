@@ -3,7 +3,7 @@
 🎓 Data Science Graduate | 📊 Passionate about Data  
 
 
-🔹 **Languages & Tools:** Python, SQL, TensorFlow, Scikit-Learn, Pandas, Docker, Hadoop HDFS, Power BI 
+🔹 **Languages & Tools:** Python, SQL, Scikit-Learn, Pandas, Docker, Hadoop HDFS, Power BI 
 
 🔹 **Projects:** Bank churn prediction, Crime Data analytics system  
 
