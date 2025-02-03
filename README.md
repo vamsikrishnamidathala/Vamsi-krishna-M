@@ -6,7 +6,9 @@ Passionate about transforming data into actionable insights, I am seeking a Data
 # Education
 UNIVERSITY OF PACIFIC, SAN FRANCISCO, CA.           	EXPECTED GRADUATION MAY 2025       
 Master of Science in Data Science
+
 Current GPA: 3.30
+
 Relevant Coursework: Linear Algebra, Frequentist statistics, Data Analytics Computing, Advanced Machine Learning, Data Wrangling, Natural language processing, Data engineering, Customer Analytics. Data Visualization, Cybersecurity Analytics.
 # Experience
 CAPGEMINI                                                                                           JAN 2022 – OCT 2022
