@@ -1,4 +1,4 @@
-												Vamsi Krishna Midathala
+# Vamsi Krishna Midathala
 San Francisco, CA      v.krishna.midathala@gmail.com    +1 (510) 902 9570   LinkedIn
 
 Passionate about transforming data into actionable insights, I am seeking a Data Scientist or Data Engineer role. I bring expertise in data cleaning, ETL pipelines, machine learning, and data warehousing, coupled with a strong understanding of data architecture. My goal is to solve complex problems, drive innovation, and deliver impactful solutions through collaborative efforts in dynamic environments.
