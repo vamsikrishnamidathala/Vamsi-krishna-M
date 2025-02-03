@@ -12,7 +12,9 @@ Current GPA: 3.30
 Relevant Coursework: Linear Algebra, Frequentist statistics, Data Analytics Computing, Advanced Machine Learning, Data Wrangling, Natural language processing, Data engineering, Customer Analytics. Data Visualization, Cybersecurity Analytics.
 # Experience
 CAPGEMINI                                                                                           JAN 2022 – OCT 2022
+
 Role: Analyst 
+
 	Reduced candidate profile shortlisting time by 10% through implementing data-driven decision-making techniques.
 
 	Analyzed and maintained employee database (Naukri, LinkedIn) to enhance screening efficiency.
